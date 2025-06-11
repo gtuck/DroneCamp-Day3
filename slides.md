@@ -109,10 +109,10 @@ h1 {
 
 # Firmware Update: Drone and Controller
 
-## 8:25 - 8:50
+**https://robolink.helpdocs.io/article/bpkgu06cru-can-i-update-my-co-drone-edu**
 
 * How to check firmware versions
-* Update drone firmware **https://robolink.helpdocs.io/article/bpkgu06cru-can-i-update-my-co-drone-edu**
+* Update drone firmware 
 * Update controller firmware
 * Confirm updates complete
 
