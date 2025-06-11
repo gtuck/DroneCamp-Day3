@@ -112,7 +112,7 @@ h1 {
 ## 8:25 - 8:50
 
 * How to check firmware versions
-* Update drone firmware
+* Update drone firmware **https://robolink.helpdocs.io/article/bpkgu06cru-can-i-update-my-co-drone-edu**
 * Update controller firmware
 * Confirm updates complete
 
