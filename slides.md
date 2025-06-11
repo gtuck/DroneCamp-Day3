@@ -79,9 +79,9 @@ h1 {
 
 ---
 
-# 8:00 - 8:10
+# Logging into Computers & Setup
 
-## Logging into Computers & Setup
+## 8:00 - 8:10
 
 * Students log into assigned computers
 
@@ -97,9 +97,9 @@ h1 {
 
 ---
 
-# 8:10 - 8:25
+# Connecting and Coding with Blockly
 
-## 1.1: Connecting and Coding with Blockly
+## 8:10 - 8:25
 
 * Introduction to Blockly interface
 * Connecting drone to computer
@@ -107,9 +107,9 @@ h1 {
 
 ---
 
-# 8:25 - 8:50
+# Firmware Update: Drone and Controller
 
-## Firmware Update: Drone and Controller
+## 8:25 - 8:50
 
 * How to check firmware versions
 * Update drone firmware
@@ -118,9 +118,9 @@ h1 {
 
 ---
 
-# 8:50 - 9:25
+# Flight Commands
 
-## 1.2: Flight Commands
+## 8:50 - 9:25
 
 * Program Takeoff & Landing
 * Program Hover
@@ -129,9 +129,9 @@ h1 {
 
 ---
 
-# 9:25 - 10:00
+# Flight Directions
 
-## 1.3: Flight Directions
+## 9:25 - 10:00
 
 * Program Move Commands & Directions:
 
@@ -143,15 +143,15 @@ h1 {
 
 ---
 
-# 10:00 - 10:15
+# Break
 
-## Break
+## 10:00 - 10:15
 
 ---
 
-# 10:15 - 10:25
+# Drone Safety Rules Review
 
-## Drone Safety Rules Review
+## 10:15 - 10:25
 
 * Fly indoors only
 * Stay below 10 feet
@@ -162,17 +162,16 @@ h1 {
 
 ---
 
-# 10:25 - 10:35
+# Pre-Flight Checklist (Part 1)
 
-## Pre-Flight Checklist (Part 1)
+**Directions: The mechanic leads the Pre-Flight Checklist with a call-and-response activity. Say each checklist item. Pilot responds with:**
 
-**Call & Response:**
+✅ "CHECK!" if completed
+❌ "NEED TO FIX!" if not ready
 
 ### 1 Environment Check
 
-* "Flying indoors?" — CHECK!
-* "Clear flight area?" — CHECK!
-* "Well-lit patterned floor?" — CHECK!
+* Is the flight area clear of obstacles, fragile items, liquids, and other people?  — CHECK!
 
 ### 2 Drone Hardware Check
 
@@ -183,17 +182,13 @@ h1 {
 
 ---
 
-# 10:25 - 10:35
-
-## Pre-Flight Checklist (Part 2)
-
-**Call & Response:**
+# Pre-Flight Checklist (Part 2)
 
 ### 3 Battery Check
 
 * "Battery fully charged & inserted?" — CHECK!
-* "Second battery ready?" — CHECK!
-* "Controller connected/charged?" — CHECK!
+* "Spare batteries are charged and ready?" — CHECK!
+* "Controller batteries are above 20%?" — CHECK!
 
 ### 4 Flight Readiness
 
@@ -209,7 +204,6 @@ h1 {
 
 ## Arena Practice Rotations
 
-* 3 Arenas available (10x10 tents)
 * 15 min per team per arena
 * Teams not in Arena:
 
