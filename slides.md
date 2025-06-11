@@ -200,9 +200,19 @@ h1 {
 
 ---
 
-# 10:35 - 11:45
+# Coded Flight Drills
 
-## Arena Practice Rotations
+* Safe takeoff & landing
+* Elevation control
+* Forward / backward / left / right movement
+* Hover & hold
+* Controlled flips
+* Navigation around props
+* Return-to-Home practice
+
+---
+
+# Arena Practice Rotations
 
 * 15 min per team per arena
 * Teams not in Arena:
